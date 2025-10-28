@@ -23,8 +23,8 @@ import time
 # === CONFIGURATION ===
 #INPUT_FILE = "addresses.xlsx"           # Input file name
 #OUTPUT_FILE = "addresses_with_zips.xlsx"  # Output file name
-INPUT_FILE = "Joe-database-property.xlsx"
-OUTPUT_FILE = "Zips-joe-properties.xlsx" 
+INPUT_FILE = "Palm_test.xlsx"
+OUTPUT_FILE = "Zips test.xlsx" 
 BATCH_SIZE = 10                       # Number of rows per batch
 
 # === FUNCTION TO GET ZIP FOR ONE ADDRESS ===
